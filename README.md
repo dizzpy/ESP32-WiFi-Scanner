@@ -16,6 +16,7 @@ This is an ESP32-based WiFi scanner that detects available networks and displays
 - ESP32 development board
 - USB cable for programming
 
-## 📜 License
-This project is open-source under the **MIT License**.
+## 📸 Screenshot
+![WiFi Scanner Output](./screenshot.png)
+_Sample output from the WiFi scanner showing detected networks_
 
